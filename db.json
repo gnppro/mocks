@@ -108,5 +108,91 @@
       "video_embedded_url": "https://www.youtube.com/embed/meVseFpgc4Y",
       "video_url": "https://www.youtube.com/watch?v=meVseFpgc4Y"
     }
+  ],
+  "influencers": [
+    {
+      "_id": "606d35a52d737fc0900000d5",
+      "author_img": "https://yt3.ggpht.com/ytc/AAUvwni5uuWr5tXoowH3dEhoeWtBQe7q72wh_zcjJ1bLtA=s88-c-k-c0x00ffffff-no-rj",
+      "author_name": "八婆 BESTIES",
+      "author_type": "#fan",
+      "channel_url": "https://www.youtube.com/channel/UC2YzkP3mTlfcQ-MNO5cVatA"
+    },
+    {
+      "_id": "5a2066e23916d17a2900f7b4",
+      "author_img": "https://yt3.ggpht.com/-nS0gXz-NOn8/AAAAAAAAAAI/AAAAAAAAAAA/OK1cCBYZmKw/s88-c-k-no-mo-rj-c0xffffff/photo.jpg",
+      "author_name": "DearMakeUpDiary",
+      "author_type": "#expert",
+      "channel_url": "https://www.youtube.com/channel/UCNTf6_0y2M06jkHE0reB_zw"
+    },
+    {
+      "_id": "5b3beaaa13d9c1b00e000396",
+      "author_img": "https://yt3.ggpht.com/-yc2lQ1u72mc/AAAAAAAAAAI/AAAAAAAAAAA/Qsd3r1SqdRY/s88-c-k-no-mo-rj-c0xffffff/photo.jpg",
+      "author_name": "Jessica Flores",
+      "author_type": "#expert",
+      "channel_url": "https://www.youtube.com/channel/UC8BL3nwomRkpiF6XESfmFSw"
+    },
+    {
+      "_id": "5bdd01282d737fc7ea0002e2",
+      "author_img": "https://yt3.ggpht.com/a-/AN66SAytekOLGhhBB9ZqUzdd9noMfuexqJOcTSWi-g=s88-mo-c-c0xffffffff-rj-k-no",
+      "author_name": "Julia Salvia",
+      "author_type": "#expert",
+      "channel_url": "https://www.youtube.com/channel/UCSwjMdJLA-RZLMVB8YC5nCQ"
+    },
+    {
+      "_id": "60712a0c2d737fb78e000042",
+      "author_img": "https://yt3.ggpht.com/ytc/AAUvwniCA7Vl57-da40u-EFKwmPxM47xor-7Qo57Hg8niA=s88-c-k-c0x00ffffff-no-rj",
+      "author_name": "Soraia Martins - Cores e Aromas",
+      "author_type": "#fan",
+      "channel_url": "https://www.youtube.com/channel/UCO3S-d2TSd2clhaAmfRTYug"
+    },
+    {
+      "_id": "60751e932d737f6969000032",
+      "author_img": "https://yt3.ggpht.com/ytc/AAUvwnjaWEPE7m9aiRs_AED-QQXp9-gq0y_OuJTyuLSYTA=s88-c-k-c0x00ffffff-no-rj",
+      "author_name": "Mari Blanka",
+      "author_type": "#fan",
+      "channel_url": "https://www.youtube.com/channel/UCym5sXsMlUXMxEf2n3FEGaA"
+    },
+    {
+      "_id": "60712a0f2d737fb78e000048",
+      "author_img": "https://yt3.ggpht.com/ytc/AAUvwniNaaQrE_xLB6XtXit9PfpEhWNT5iDpnXZ0zCR92w=s88-c-k-c0x00ffffff-no-rj",
+      "author_name": "Papo Fragrântico com Regina Araujo",
+      "author_type": "#fan",
+      "channel_url": "https://www.youtube.com/channel/UCsg6bg3x7UGxaCojaOpN47Q"
+    },
+    {
+      "_id": "5ae1c7a33916d19815006579",
+      "author_img": "https://yt3.ggpht.com/-PnQHxzq_Et4/AAAAAAAAAAI/AAAAAAAAAAA/K513ry809Iw/s88-c-k-no-mo-rj-c0xffffff/photo.jpg",
+      "author_name": "Melinda Joy",
+      "author_type": "#fan",
+      "channel_url": "https://www.youtube.com/channel/UCk5d8SWi6pA3I_EdUc-MvNg"
+    },
+    {
+      "_id": "606e870e2d737f8af2000041",
+      "author_img": "https://yt3.ggpht.com/ytc/AAUvwngCc1nMQHqNqEnfuFGwVFy8lW2mHEn2spbhvB6CCg=s88-c-k-c0x00ffffff-no-rj",
+      "author_name": "Tainá Heille",
+      "author_type": "#fan",
+      "channel_url": "https://www.youtube.com/channel/UCw8vC5o-aBvkL9Kn3myNx6g"
+    },
+    {
+      "_id": "606d35a02d737fc0900000cd",
+      "author_img": "https://yt3.ggpht.com/ytc/AAUvwnisnj6eJPoDcAvUdaPujh0FlvzplAUB_2Txl-ac3g=s88-c-k-c0x00ffffff-no-rj",
+      "author_name": "Yulia Marushkova",
+      "author_type": "#fan",
+      "channel_url": "https://www.youtube.com/channel/UCb8dyt6JvPmNH4Ib-k41T8g"
+    },
+    {
+      "_id": "5994eda0acce34557a000e3b",
+      "author_img": "https://yt3.ggpht.com/-KwRkEQUEySk/AAAAAAAAAAI/AAAAAAAAAAA/4osGgHvp2u8/s88-c-k-no-mo-rj-c0xffffff/photo.jpg",
+      "author_name": "Интернет-магазин Духи.рф",
+      "author_type": "",
+      "channel_url": "https://www.youtube.com/channel/UC2q0ost6H9WMH7bKZCWThJw"
+    },
+    {
+      "_id": "607670152d737faada000044",
+      "author_img": "https://yt3.ggpht.com/ytc/AAUvwniN4MBYJTEC22dUsYqTRrtjGov-Rw5E3fqMgFQx=s88-c-k-c0x00ffffff-no-rj",
+      "author_name": "수지와수위티",
+      "author_type": "#fan",
+      "channel_url": "https://www.youtube.com/channel/UCi4jTkm3fsMf_f9IHoYZrOg"
+    }
   ]
 }
